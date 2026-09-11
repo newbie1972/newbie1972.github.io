@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mbfg.mybunker",
+      "sha256_cert_fingerprints": [
+        "AB:A8:3F:47:3A:AD:71:B8:F5:AA:15:A4:1F:3D:83:73:0F:CC:D8:4A:3A:DB:5C:AF:26:57:E2:96:B8:25:21:8E",
+        "78:55:8A:1C:90:33:A4:79:72:2C:CC:42:50:C8:8C:DD:8D:54:EA:01:8A:2F:29:BC:15:56:5C:B2:2B:A7:8B:C1",
+        "DE:BE:36:C9:E6:46:77:24:A9:3B:A3:6F:DF:2B:52:72:44:F7:B8:B2:44:CC:4E:9B:21:03:07:E3:D3:97:12:39"
+      ]
+    }
+  }
+]
